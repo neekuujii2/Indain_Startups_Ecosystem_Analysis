@@ -77,18 +77,18 @@ jupyter notebook
 ## 📊 Key Findings
 
 1. What is the Quarterly trend in the number of startups funded in the given duration?
-2.Which startups got the highest funding? (OR) List the Top 20 startups based on the amount funded to them.
-3.Which Industry has most startups? OR, Which Industry is more favored for funding by investors?
-4.Which cities have the most number of startups funded?
-5.Who are the top 10 investors in the Indian Startup Ecosystem?
-6.What are the most common types of investments made by investors?
+2. Which startups got the highest funding? (OR) List the Top 20 startups based on the amount funded to them.
+3. Which Industry has most startups? OR, Which Industry is more favored for funding by investors?
+4. Which cities have the most number of startups funded?
+5. Who are the top 10 investors in the Indian Startup Ecosystem?
+6. What are the most common types of investments made by investors?
 
 
 ## 📑 Reports and Visualizations
 
 - Detailed analysis reports are available in the `results/reports` directory
 - Visualizations can be found in the `results/figures` directory
--
+
 
 ## 🤝 Contributing
 
